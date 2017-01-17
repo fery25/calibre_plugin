@@ -2,12 +2,10 @@
 # vim:fileencoding=UTF-8:ts=4:sw=4:sta:et:sts=4:ai
 # *-* coding: utf-8 *-*
 from __future__ import (unicode_literals, division, absolute_import,
-						print_function)
+                                print_function)
 
 __license__   = 'GPL v3'
 __copyright__ = '2017, Frantisek Lorenc <franta.lorenc@gmail.com>'
-__copyright__ = 'based od Pavel Skulil <pavelsku@gmail.com>'
-
 __docformat__ = 'restructuredtext cs'
 
 import time
