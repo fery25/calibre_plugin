@@ -5,7 +5,7 @@ from __future__ import (unicode_literals, division, absolute_import,
                                 print_function)
 
 __license__   = 'GPL v3'
-__copyright__ = '2017, Frantisek Lorenc <franta.lorenc@gmail.com>'
+__copyright__ = '2017, Frantisek Lorenc <franta.lorenc@gmail.com>, based on Pavel Skutil <pavelsku@gmail.com>'
 __docformat__ = 'restructuredtext cs'
 
 import time
@@ -23,7 +23,7 @@ class databazeknih(Source):
 	name					= 'Databazeknih'
 	description				= _('Downloads metadata and covers from databazeknih.cz')
 	author					= 'vecdan based on bagdira version'
-	version					= (1, 5, 0)
+	version					= (1, 5, 1)
 	minimum_calibre_version = (0, 8, 0)
 
 	capabilities = frozenset(['identify', 'cover'])
