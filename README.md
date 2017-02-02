@@ -7,4 +7,4 @@ Obsahuje plugin pro Calibre, který stahuje metadata ze stránek databazeknih.cz
 
 Pro funkčnost pluginu je nutné mít calibre ve verzi 0.8+
 
-V případě problému napište frantisek.lorenc ( a ). gmail.com
+V případě problému napište 
